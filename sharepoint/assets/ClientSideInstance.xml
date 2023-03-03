@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <ClientSideComponentInstance
+        Title="CssFileZip"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ComponentId="15ec0665-1dad-4850-9b32-36ec221826e8"
+        Properties="{&quot;CSSFileLocation&quot;:&quot;/Style%20Library/CSS/global.css&quot;}">
+    </ClientSideComponentInstance>
+</Elements>
