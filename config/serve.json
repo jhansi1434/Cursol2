@@ -9,7 +9,7 @@
         "15ec0665-1dad-4850-9b32-36ec221826e8": {
           "location": "ClientSideExtension.ApplicationCustomizer",
           "properties": {
-            "cssurl": "/Style%20Library/CSS/global.css"
+            "cssurl": "/Style%20Library/CSS/ZipCss.css"
            
           }
 
@@ -22,7 +22,7 @@
         "15ec0665-1dad-4850-9b32-36ec221826e8": {
           "location": "ClientSideExtension.ApplicationCustomizer",
           "properties": {
-            "cssurl": "/Style%20Library/CSS/global.css"
+            "cssurl": "/Style%20Library/CSS/ZipCss.css"
           }
         }
       }

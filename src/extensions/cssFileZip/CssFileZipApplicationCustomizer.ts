@@ -65,7 +65,7 @@ export default class CssFileZipApplicationCustomizer
     
     this.context.placeholderProvider.tryCreateContent(
       PlaceholderName.Bottom
-    ).domElement.innerHTML="<div style='background-color:black ;height:50px;color:white;text-align:center;margin-bottom:25px'>Copyright © 2023 - Zelarsoft, All Rights Reserved</div>"
+    ).domElement.innerHTML="<div style='background-color:black ;height:50px;color:white;text-align:center;'>Copyright © 2023 - Zelarsoft, All Rights Reserved</div>"
 
      return Promise.resolve();
   }
